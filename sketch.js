@@ -4,8 +4,7 @@ let diam;
 let rad;
 
 let velx;
-let vely
-let colorr
+let vely;
 
 function setup(){
     createCanvas(windowWidth, windowHeight);
